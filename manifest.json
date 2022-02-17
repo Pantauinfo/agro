@@ -1,0 +1,41 @@
+{
+ "name": "agrosiana",
+ "icons": [
+  {
+   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEjEVRw0cWUYYfu3_SbmBTqwZd9_H6ok0txjIO_uuhluV8s2HaNCFSClKf-KsBZfiza4VzxSfAIo5-WkMe0TssptckxJmBABk9exezuUvyfwKT5dyWV1MyKGWBvtsu4ulwYu-gbTZ1dD9Nc2qoa-CZu79K2oeKAp7pPu0Od1gf0lItW6C5UVdwCfvQTG=s36",
+   "sizes": "36x36",
+   "type": "image\/png",
+   "density": "0.75"
+  },
+  {
+   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhy8Qo8ygbPSiMo31dhi7xr9MrMJWagrjRK-8P7V6B-TqzzdK-KnQay6567PXV-h1Rhk7R_T7DtNuPpyEYIAOIc_2ll7Tk3l4SDach1-0XcB9kNp5WGKAR74-sSsopSfSYt37py6KoavHJitLrLBmxDPoB4LQDT_07U_OfSYsdkc2bX_qKlogdWwxYn=s48",
+   "sizes": "48x48",
+   "type": "image\/png",
+   "density": "1.0"
+  },
+  {
+   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEgJXfFWYi-7SX7yfZ7-SYp6wgqbuW78oxzOLbCcOppoz_hW3Eh6qry3uzTsqvQDbeKxJF64AjV2K8VgALvJRlHU5PM3f4rSVvd6dCbyvANj28hyQRwve8ULP9676s-Ev0F3CP2xn3qdDgeYiheXI4KvovhglIluFD6xPC2C2PMD9Sw6i5d0k_SGTPbu=s72",
+   "sizes": "72x72",
+   "type": "image\/png",
+   "density": "1.5"
+  },
+  {
+   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEhZgf9rmYwhOZOdkETKUem_bploQrhV0GFpQqGaWoMQzG1Kb6N_lcO193583hcQnQ8KtaZESuDFxjMSNEBfw3JIKN4m_Z-UsRrSYA_ct1077_KAKW8TTENhEuyiFOvS-sEQ9b-6BzTeVBAWkfFjPgXZjCnL4UcsH7Sd-LHxZQVQPzMnmX7wsmLoPSpS=s96",
+   "sizes": "96x96",
+   "type": "image\/png",
+   "density": "2.0"
+  },
+  {
+   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEg_p8ECB-KXm4aTnP14LBjYhf6m2DMmTQdibHcxDfFViopiT7Dn970vfiP07JHDQcOFVrXROAkpfU3TVs1ypffjGxpeVDfJHBwFgxUvH9ckAsiAjPZcWgJdawg4KP3vgOaxn2dpQo-rbafya-MgoHRqfEsbElJ1p_sQMK_oYJfDcEg_9YV2m8d3jlxc=s144",
+   "sizes": "144x144",
+   "type": "image\/png",
+   "density": "3.0"
+  },
+  {
+   "src": "https://blogger.googleusercontent.com/img/a/AVvXsEj8FW-KmHz0CIFjZg_0A1asyWEkEWfGD-avka-p_1TCAIaDubir0wAe_a_KQp4PAArr3mqh2Xbk4CQM6cYPkYuMb0c2AoNM8eYMdg3wb7pK8L93o1wPyyZJvvy2n41uASBU5ccfxLPLDXW_xTht5wadiiV74-YvUlrwA9Xfc1zRLS1qdSwRYHXXopHi=s192",
+   "sizes": "192x192",
+   "type": "image\/png",
+   "density": "4.0"
+  }
+ ]
+}
